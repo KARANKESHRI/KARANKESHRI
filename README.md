@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)]
+https://www.canva.com/design/play?category=tACFapY0WQc&referrer=banners-landing-page
 <h1 align="center">Hi 👋, I'm Karan Keshri</h1>
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

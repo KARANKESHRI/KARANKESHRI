@@ -1,4 +1,4 @@
-[![MasterHead]https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg
+[![MasterHead]https://i.pinimg.com/originals/ac/4e/22/ac4e22e0573cbfa8216189b38badc63c.gif
 <h1 align="center">Hi 👋, I'm Karan Keshri</h1>
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

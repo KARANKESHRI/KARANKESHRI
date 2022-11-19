@@ -1,3 +1,4 @@
+[![MasterHead]https://www.canva.com/design/DAFSbvUUmJs/UYggT2lydldbKcLWMSXaQQ/edit?category=tACFapY0WQc
 
 <h1 align="center">Hi 👋, I'm Karan Keshri</h1>
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill</h3>
